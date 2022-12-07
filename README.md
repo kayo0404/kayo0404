@@ -1,16 +1,19 @@
-### Hi there 👋
+### Bem-vindo ao perfil do Kayo Campos!
 
-<!--
-**kayo0404/kayo0404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando JavaScript, HTML, CSS e SQL 
+- 📫 Contate-me no email: kayo.kcs@outlook.com
 
-Here are some ideas to get you started:
+ <div>
+  <a href="https://github.com/kayo0404">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayo0404&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayo0404&layout=compact&langs_count=7&theme=chartreuse-dark&locale=pt-br"/>
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
