@@ -2,6 +2,7 @@
 
 - 🌱 Estudando JavaScript, HTML, CSS e SQL 
 - 📫 Contate-me no email: kayo.kcs@outlook.com
+- 💻 LinkedIn: www.linkedin.com/in/kayo-campos-kayo0404
 
  <div>
   <a href="https://github.com/kayo0404">
