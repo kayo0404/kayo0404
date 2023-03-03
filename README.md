@@ -1,6 +1,6 @@
 ### Bem-vindo ao perfil do Kayo Campos!
 
-- 🌱 Estudando JavaScript, HTML, CSS e SQL 
+- 🌱 Estudando Ruby, JavaScript, HTML, CSS e SQL 
 - 📫 Contate-me no email: kayo.kcs@outlook.com
 - 💻 LinkedIn: www.linkedin.com/in/kayo-campos-kayo0404
 
