@@ -1,8 +1,10 @@
 ### Bem-vindo ao perfil do Kayo Campos!
 
-- 🌱 Estudando Ruby, JavaScript, HTML, CSS e SQL 
+- 💻 Técnico em Desenvolvimentos de Sistemas
+- 📝 Cursando Análise e Desenvolvimento de Sistemas
+- 🌱 Estudando C, Java e SQL 
 - 📫 Contate-me no email: kayo.kcs@outlook.com
-- 💻 LinkedIn: www.linkedin.com/in/kayo-campos-kayo0404
+- 👩🏽‍🏭 LinkedIn: www.linkedin.com/in/kayo-campos-kayo0404
 
  <div>
   <a href="https://github.com/kayo0404">
